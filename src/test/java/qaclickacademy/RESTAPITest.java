@@ -7,9 +7,9 @@ public class RESTAPITest {
 	@Test
 	public void postJira()
 	{
-		System.out.println("postJira");
-		System.out.println("postJira22");
-		System.out.println("postJira33");
+		System.out.println("postJira changes made by T");
+		System.out.println("postJira22 changes made by T");
+		System.out.println("postJira33changes made by T");
 		//feere
 		//ffgf
 		//fgf
